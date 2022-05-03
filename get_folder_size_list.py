@@ -1,3 +1,6 @@
+# This script ceates a report of folder names along with their sizes on Windows OS
+# Author: Vikas Borate (vikas.borate@gmail.com)
+
 import os
 import sys
 
